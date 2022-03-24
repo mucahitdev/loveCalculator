@@ -14,7 +14,7 @@ function App() {
         
         <Form setRes={setRes} setShowCard={setShowCard}  />
         <Card res={res} showCard={showCard} />
-        <div className="footer">Crated by <a href="https://github.com/mucahitkok">Mücahit Kökdemir</a> </div>
+        <div className="footer">Created by <a href="https://github.com/mucahitkok">Mücahit Kökdemir</a> </div>
         
     </div>
   );
